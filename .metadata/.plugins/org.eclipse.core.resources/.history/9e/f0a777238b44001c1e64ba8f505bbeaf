@@ -1,0 +1,5 @@
+package br.com.siscad.repository;
+
+public interface ProdutoRepository {
+
+}
